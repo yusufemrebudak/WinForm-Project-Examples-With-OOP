@@ -1,0 +1,10 @@
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\bin\Debug\WindowsFormsApp1_HesapMakinesi.exe.config
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\bin\Debug\WindowsFormsApp1_HesapMakinesi.exe
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\bin\Debug\WindowsFormsApp1_HesapMakinesi.pdb
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\obj\Debug\WindowsFormsApp1_HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\obj\Debug\WindowsFormsApp1_HesapMakinesi.Form1.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\obj\Debug\WindowsFormsApp1_HesapMakinesi.Properties.Resources.resources
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\obj\Debug\WindowsFormsApp1_HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\obj\Debug\WindowsFormsApp1_HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\obj\Debug\WindowsFormsApp1_HesapMakinesi.exe
+C:\Users\yusuf\Documents\Visual Studio 2017\projects\WindowsFormsApp1_HesapMakinesi\WindowsFormsApp1_HesapMakinesi\obj\Debug\WindowsFormsApp1_HesapMakinesi.pdb
